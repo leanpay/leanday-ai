@@ -1,0 +1,8 @@
+{
+  "name": "leanpay",
+  "version": "1.0.0",
+  "description": "Leanpay's public Claude Code plugin — AI infrastructure skills and extensions.",
+  "author": {
+    "name": "Leanpay"
+  }
+}

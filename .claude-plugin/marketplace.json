@@ -1,0 +1,21 @@
+{
+  "name": "leanpay-ai",
+  "owner": {
+    "name": "Leanpay"
+  },
+  "metadata": {
+    "description": "Leanpay's public marketplace for Claude Code AI infrastructure — skills, MCP servers, and extensions shared openly with the community.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "leanpay",
+      "version": "1.0.0",
+      "description": "Leanpay's public Claude Code plugin — AI infrastructure skills and extensions.",
+      "author": {
+        "name": "Leanpay"
+      },
+      "source": "./plugins/leanpay"
+    }
+  ]
+}
